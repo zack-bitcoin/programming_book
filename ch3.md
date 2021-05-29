@@ -21,6 +21,8 @@ If a person feels like they are low status, then their body and mind optimize ve
 
 A person who is depressed, their brain is burning through calories at a much faster rate. They can solve math problems faster, and with more accuracy. They can maintain focus longer, and are more creative.
 
+This is called the Analytic Rumination Hypothesis, [you can read more about it here](https://www.researchgate.net/publication/26682728_The_bright_side_of_being_blue_Depression_as_an_adaptation_for_analyzing_complex_problems)
+
 Feeling Low Status When You Aren't
 ========================
 
