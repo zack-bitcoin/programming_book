@@ -1,6 +1,9 @@
 Chapter 1- Diet
 =============
 
+Energy Metabolism
+============
+
 Spending many hours programming is hard. It is mentally exhausting.
 
 Focusing on the same thing for hours on end, it is not natural. While you are focused, your brain is consuming large amounts of energy. If you want to be the best programmer you can be, you need to train your body to process food into energy faster and longer. You need to push your metabolism and endurance to their limits.
@@ -20,6 +23,9 @@ You want to train your body to use fat calories instead of carbohydrate calories
 An easier strategy is to only eat during a 8 hour period during the day.
 
 A strategy to help your body adjust to using fat calories instead of carbohydrates, you can do cardiovascular exercise after a period of fasting. I do my daily run in the morning, before eating anything that day. By combining fasting with endurance exercise, you can completely consume the carbohydrates in your body, and force your body to start burning fat.
+
+Nutrients and Minerals
+=============
 
 Besides calories, the human body needs about 30 essential vitamins and minerals to survive. Being deficient in any one of them can negatively impact your ability to program.
 
@@ -47,6 +53,9 @@ Iron is used to create red blood cells which transport oxygen to your brain. You
 
 You need to be well hydrated to think properly. Your kidneys need water to filter your blood and keep your electrolytes in balance. Your blood needs water to flow and send oxygen to your brain. Your body needs water to maintain the correct temperature. Drinking water should be one of the first things you do after waking up from sleeping, and you should drink more every couple hours all day long.
 
+Preparing Food
+===========
+
 A healthy diet can be very cheap.
 The tools you need are: a chef's knife. Something to sharpen it with. A cutting board for vegetables, and a second one for meat, if you eat meat. A large pot to boil water in. A big spoon to stir the pot. A hot plate or stovetop. A big mixing bowl.
 
@@ -56,3 +65,4 @@ The basic idea of cooking is that you heat some water in your pot, and you keep 
 
 It is a good idea to maintain a container of sour krout (also called kimchi), because this will sustain the bacterial flora in your gut, and it is a very cheap and low effort way to get a lot of nutrition, and it reduces how frequently you need to buy fresh vegetables. Chop up crunchy vegetables that can be eaten raw, like cabbage, cucumber, or carrots. Optionally include chile if you like spicy food. Mix in a big bowl with salt. Jam into a container, with just enough water to submerge it all, and put some plastic over the top, against the water, so air wont touch the water. The bacteria will break down carbohydrates in the vegetables, and increase the protein content. They will break down anti-nutrients that cause gas and upset stomach. So the vegetables are more digestable, and you can get more nutrients from them.
 
+[chapter 2](/ch2.md)

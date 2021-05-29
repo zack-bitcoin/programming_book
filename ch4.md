@@ -29,3 +29,4 @@ I had been using standard Emacs, but holding down the control key all the time s
 
 VI or an editor with VI key bindings is nice because every time you SSH into a server, VI is already available.
 
+[chapter 5](/ch5.md)

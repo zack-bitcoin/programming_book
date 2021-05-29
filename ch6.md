@@ -27,3 +27,5 @@ Another thing that can slow your cycles is if your test involves contacting some
 
 You need to be extremely strict when it comes to optimizing your cycle length. Do not compromise.
 Building tools that shorten your cycle length is almost always a good investment.
+
+[glossary](/README.md)

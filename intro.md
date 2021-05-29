@@ -9,3 +9,4 @@ I also want to be the best that I can be as a programmer. What happens if we tak
 
 Using these strategies, I gained the ability to write complex programs quickly.
 
+[chapter 1](/ch1.md)

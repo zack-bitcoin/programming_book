@@ -91,3 +91,5 @@ It is important that a person editing your code doesn't need to memorize some lo
 When reusing a word causes software to crash, it is very difficult to understand what went wrong. A function changes definition at an unexpected moment, very far from where you are currently editing.
 
 So it is important to organize your code into some kind of system of modules, to protect namespace.
+
+[chapter 6](/ch6.md)
