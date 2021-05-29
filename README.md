@@ -3,6 +3,8 @@ Way of the Programmer
 
 How to be the best programmer that you can be.
 
+In this document I tried to focus on strategies that significantly helped me as a programmer, but are also strategies that are not commonly known.
+
 
 Glossary
 ============
