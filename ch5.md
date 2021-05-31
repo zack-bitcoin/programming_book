@@ -92,4 +92,36 @@ When reusing a word causes software to crash, it is very difficult to understand
 
 So it is important to organize your code into some kind of system of modules, to protect namespace.
 
+Correct order for AI to track internal logical consistency
+=========
+
+When programming, something that often happens is you paint yourself into a corner.
+The code you have already written, it has some logical inconsistency with itself that makes it so it does not work, and you need to go back and re-write some parts.
+
+Another problem that can happen is if you are trying to make a decision about how some part of the code should work, but it is hard to imagine all the consequences of this decision, so you waste too much time thinking about it.
+
+Both these problems are mostly solved by writing code in this correct order:
+
+* datastructures
+
+* databases
+
+* api to the databases
+
+* user interface that uses the api
+
+Every time you are writing a line of code, you are putting constraints on how the rest of the program will need to behave. If you write the program in the wrong order, then you need to memorize all of these constraints as you go, because if you write a line that has a contradictory constraint, then the code is not internally consistent, you are building on top of false assumptions, and you will need to do some major rewrites to make it work.
+
+When you write your code in the correct order, you are able to test every line as you go, so you can be sure that your newly written line of code is logically consistent with all the other code that has already been written. These tests are a kind of AI that keeps track of logical consistency for you, so you don't have to memorize it all.
+
+It is important to start with datastructures because this gives you the ability to test the databases. You can push real data into the databases, and make sure that they are able to store the data and give you access to what you need.
+
+It is important to have the database before you build the api to the database, because that means you can test the api out with a real database, and make sure that it is giving you access to what you need. That the api isn't assuming the database returns something different than it actually returns.
+
+It is important to have the api to the database before you make the user interface. This way you can test out parts of the user interface with actual api requests as you go. So you never build on top of false assumptions about what that data the api request will return.
+
+When you add new features to your program, you want to do it in the same order.
+If your new feature needs new datastructures, make those first. Then change databases if necessary. Then change the api to the databases if necessary. And finally you can update the user interface to use the new api.
+This way you can test everything as you go, you don't need to memorize any constraints.
+
 [chapter 6](/ch6.md)
